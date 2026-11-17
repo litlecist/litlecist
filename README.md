@@ -1,4 +1,4 @@
-## Hi there, I'm litlecist ^3^
+## Hi there, I'm litlecist 
 
 <!--
 **litlecist/litlecist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
